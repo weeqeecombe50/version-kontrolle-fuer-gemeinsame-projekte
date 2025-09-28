@@ -1,0 +1,12 @@
+{
+  "name": "version-kontrolle-fuer-gemeinsame-projekte",
+  "version": "1.0.0",
+  "description": "Ein Tool zur Versionskontrolle und Verwaltung von Änderungen in gemeinsamen Projekten.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
